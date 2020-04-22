@@ -1,0 +1,37 @@
+# Bamboo Specs
+bamboo-specs/.classpath
+bamboo-specs/target
+bamboo-specs/.project
+bamboo-specs/.settings/
+bamboo-specs/.factorypath
+
+# CDK
+.cdk.staging
+cdk.out
+
+# Eclipse
+.project
+.settings
+
+# IntelliJ
+.idea
+*.iml
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# NodeJS
+node_modules
+
+# TypeScript
+*.js
+!.eslintrc.js
+!jest.config.js
+*.d.ts
+
+# VS Code
+.vscode
+jsconfig.json
